@@ -1,0 +1,8 @@
+.infoBox{
+    text-align: center;
+}
+
+.cardCointainer{
+    display: flex;
+    justify-content: center;
+}
