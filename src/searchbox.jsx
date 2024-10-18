@@ -56,6 +56,7 @@ throw err;
         setError(false)
        }catch(err){
         setError(true)
+           updateInfo({});
        }
       
     }
